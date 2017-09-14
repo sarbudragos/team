@@ -9,5 +9,6 @@ Meetings notes for each meeting (in Romanian language)
 
 ## Septembrie 2017
 
-* 14 Septembrie
+* 24 Septembrie ( la liceu, in laboratorul de fizica )
 * [07 Septembrie - online](./meetings/2017-09/meeting-2017-09-07.md)
+* [14 Septembrie - online](./meetings/2017-09/meeting-2017-09-14.md)
