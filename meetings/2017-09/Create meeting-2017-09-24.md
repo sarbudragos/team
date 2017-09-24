@@ -1,7 +1,7 @@
-+# GDRH meeting - 24 Septembrie - online
++ # GDRH meeting - 24 Septembrie - online
 +
-+## Proiect
-+* Proiect: Proximity Sound
++ ## Proiect
++ * Proiect: Proximity Sound
 +    - Manager de proiect: Antonio
 +    - Radu - responsabil de github
 +    - Cata - scrierea codului sursa
@@ -9,7 +9,7 @@
 +    - Alex – scrierea descrierii
 +    - Matei – inventor
 +    - Miruna – scrierea articolului
-+## Note pentru data viitoare
++ ## Note pentru data viitoare
 +    - sa fie o persoana responsabila de poze
 +    - sa se aduca cablu pentru camera
 +    - Matei va fi secretarul data viitoare
